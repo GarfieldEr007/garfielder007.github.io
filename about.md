@@ -59,7 +59,6 @@ Qiang Z. Guo
 ###联系
 
 - [博客：GarfieldEr007](http://garfielder007.github.io/)
-
 - [知乎@GarfieldEr007](http://www.zhihu.com/people/GarfieldEr007)
 
 <!--
