@@ -8,7 +8,6 @@ description: 继续折腾，七牛云。
 
 ---
 
-![](http://assets.qiniu.com/qiniu-409x220.png)
 
 ![computer.jpg](http://upload-images.jianshu.io/upload_images/1174946-b47e8edd2a7362e9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >The god says: I love coding, then coding changes the world...
@@ -34,7 +33,9 @@ description: 继续折腾，七牛云。
 * c#Windows程序设计----------Charles Petzold“windows编程泰山北斗”------.NET平台四大天王
 * .NET程序设计技术内幕-------------Jeff Prosise---.NET平台四大天王
 * .NET本质论--第1卷：公共语言运行库(中文版)--------Chris Sells---.NET平台四大天王
+
 ---
+
 #3、C++
 * C++程序设计语言（特别版)---c++八大金刚----Bjarne Stroustrup“C++之父”
 * C++ Primer (第3版)中文版----c++八大金刚---Stanley B.Lippman
