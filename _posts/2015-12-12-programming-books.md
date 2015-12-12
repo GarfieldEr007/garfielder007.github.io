@@ -86,6 +86,7 @@ description: 继续折腾，七牛云。
 * Visual Basic 6编程技术大全------------------------Francesco Balena“vb首席大师”
 * Visual Basic.NET 从入门到精通-------------------------Petroutsos,E.
 * 高级VISUAL BASIC编程-----------------------------------MATTHEW CURLAND
+
 --- 
 #6、Delphi
 * Inside VCL(深入核心——VCL架构剖析)----------李维
@@ -102,12 +103,14 @@ description: 继续折腾，七牛云。
 * Visual C++ 技术内幕（第4版)--MFC四大天王”--------David Kruglinski
 * 深入解析MFC-------------MFC四大天王”-----------George Shepherd
 * Visual C++.NET 技术内幕（第6版)-MFC四大天王”------------David Kruglinski
+
 ---
 #8、VF
 * Visual Foxpro程序设计参考手册-------------------张洪举
 * 专家门诊——Visual FoxPro开发答疑160问-------------------张洪举
 * Visual FoxPro 6.0/9.0解决方案与范例大全-------------------张洪举
 * Visual FoxPro软件开发模式与应用案例-------------------张洪举
+
 ---
 #9、黑客
 * 应用密码学(协议算法与C源程序-----------Bruce Schneier
@@ -252,7 +255,7 @@ description: 继续折腾，七牛云。
 * 图表细说电子元器件-------------------胡斌
 * 图表细说元器件及实用电路-------------------胡
 
-出处：[豆瓣](http://www.douban.com/note/142636827/)
+from：[豆瓣](http://www.douban.com/note/142636827/)
 
 
 
