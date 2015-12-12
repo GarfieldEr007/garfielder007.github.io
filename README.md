@@ -10,4 +10,4 @@
 
 ##坚信
 - Stay hungry, Stay foolish.
-- Work hard.
+- Work harder, tomorrow will be better.
