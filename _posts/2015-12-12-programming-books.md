@@ -55,6 +55,7 @@ description: 继续折腾，七牛云。
 * 深奥如山重水复Inside the c++ object model
 * 程序库大全The c++ standard libray
 * 工程经验之积累Effective c++、More Effective c++、Exceptional c++
+
 ---
 #C++八大金刚：
 * 1、Essentital c++---lippman---C++之父，旁枝暂略，主攻核心，轻薄短小，初学者
@@ -65,6 +66,7 @@ description: 继续折腾，七牛云。
 * 6、More Effective c++－－－－通过35个编程实例，展示专家经验，行文有趣，深处浅出。
 * 7、The c++ standard libray－－－c++标准库的百科全书。
 * 8、设计模式：可复用面向对象软件的基础－－－－－－good!
+
 ---
 #4、C语言
 * C程序设计语言（第2版·新版）---C语言“倚天屠龙双剑”---Brian W.Kernighan“C语言之父”
@@ -75,6 +77,7 @@ description: 继续折腾，七牛云。
 * C语言参考手册(原书第5版)--------------------------Samuel P.Harbison
 * C程序设计教程---------------------------------H.M.Deitel/P.J.Deitel
 * C陷阱与缺陷-----------------------------------Andrew Koenig
+
 ---
 #5、VB
 * Visual Basic .NET技术内幕-----VB编程三剑客-----------Francesco Balena“vb首席大师”
@@ -88,6 +91,7 @@ description: 继续折腾，七牛云。
 * Inside VCL(深入核心——VCL架构剖析)----------李维
 * Delphi 7高效数据库程序设计--------------李维
 * 面向对象开发实践之路（Delphi版）----------李维
+
 ---
 #7、VC
 * Windows 程序设计（第5版）-----Charles Petzold“windows编程泰山北斗”---
