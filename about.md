@@ -29,7 +29,7 @@ Qiang Z. Guo
 ###关注：
 
 - [CoolShell](http://coolshell.cn/)
-- [老赵]
+- [老赵](http://link.zhihu.com/?target=http%3A//blog.zhaojie.me/)
 - [阮一峰]
 - [元认知](http://www.mesule.com/)
 - 写作
