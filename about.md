@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="github.com/garfielder007/garfielder007.github.io/img/garfielder007_avatar.png" align="center"></p>
+    <p><img src="https://github.com/GarfieldEr007/garfielder007.github.io/blob/master/img/garfielder007_avatar.png" align="center"></p>
 </center>
 
 博学之，审问之，慎思之，明辨之，笃行之。
