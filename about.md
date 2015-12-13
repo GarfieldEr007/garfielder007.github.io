@@ -40,9 +40,9 @@ Q. Z. Guo
 
 
 
-
-###代表作：
 <!--
+###代表作：
+
 - [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
 
 - [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
@@ -50,8 +50,9 @@ Q. Z. Guo
 - [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
 -->
 
-###我的朋友们
 <!--
+###我的朋友们
+
 - [YiLee](http://yilee.me)
 - [Caos](http://caos.me)
 - [BuzhiNote](http://BuzhiNote.com)
