@@ -26,7 +26,7 @@ Q. Z. Guo
 - 一寸光阴一寸金，寸金难买寸光阴
 
 
-###关注：
+###关注
 
 - [CoolShell](http://coolshell.cn/)
 - [老赵](http://blog.zhaojie.me/)
