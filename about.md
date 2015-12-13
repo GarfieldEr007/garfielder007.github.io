@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="img/garfielder007_avatar.png" align="center"></p>
 </center>
 
 博学之，审问之，慎思之，明辨之，笃行之。
@@ -29,6 +29,8 @@ Qiang Z. Guo
 ###关注：
 
 - [CoolShell](http://coolshell.cn/)
+- [老赵]
+- [阮一峰]
 - [元认知](http://www.mesule.com/)
 - 写作
 - Python
