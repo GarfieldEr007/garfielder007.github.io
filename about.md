@@ -7,13 +7,13 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="img/garfielder007_avatar.png" align="center"></p>
+    <p><img src="github.com/garfielder007/garfielder007.github.io/img/garfielder007_avatar.png" align="center"></p>
 </center>
 
 博学之，审问之，慎思之，明辨之，笃行之。
 
 ###Name
-Qiang Z. Guo
+Q. Z. Guo
 
 现在研习 **study everyday** 。
 
@@ -30,10 +30,10 @@ Qiang Z. Guo
 
 - [CoolShell](http://coolshell.cn/)
 - [老赵](http://blog.zhaojie.me/)
+- [vczh](http://www.cnblogs.com/geniusvczh/archive/2013/03/24/2978575.html)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [元认知](http://www.mesule.com/)
-- 写作
-- Python
+- [廖雪峰](http://www.liaoxuefeng.com/)
 - [阳志平](http://www.yangzhiping.com/)
 - [ZoomQuiet](http://blog.zoomquiet.io/)
 
