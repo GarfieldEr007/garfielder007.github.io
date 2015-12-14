@@ -3,8 +3,8 @@ layout: post
 title: 计算机编程的经典书籍(强烈推荐)
 date: 2015-12-12
 categories: blog
-tags: [七牛,图床]
-description: 继续折腾，七牛云。
+tags: [计算机,编程,书籍]
+description: 编程的相关书籍。
 
 ---
 
