@@ -6,7 +6,7 @@
 
 博客：[GarfieldEr007](http://GarfieldEr007.github.io)
 
-第一次建立并使用该GitHub博客：2015.12.11
+Starting from 12/11 2015.
 
 ##坚信
 - Stay hungry, Stay foolish.
