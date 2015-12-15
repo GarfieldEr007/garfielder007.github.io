@@ -16,13 +16,11 @@ A First Example
 
 As a first example, we will use the standard Hello world program. It is not very fascinating but makes it easy to demonstrate the use of the Scala tools without knowing too much about the language. Here is how it looks:
 
-```
     object HelloWorld {
       def main(args: Array[String]) {
         println("Hello, world!")
       }
     }
-```
 
 The structure of this program should be familiar to Java programmers: it consists of one method called main which takes the command line arguments, an array of strings, as parameter; the body of this method consists of a single call to the predefined method println with the friendly greeting as argument. The main method does not return a value (it is a procedure method). Therefore, it is not necessary to declare a return type.
 
