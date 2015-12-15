@@ -13,8 +13,8 @@ owner:
   bio: "写就是写的报酬"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/garfielder007_avatar.png
+gavatar: /img/garfielder007_avatar.png
+favicon: /img/garfielder007_avatar.png
 
 douban_username:  Garfield
 twitter_username: 
