@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux 0：实际问题
-category: 技术
+category: Linux
 tags: Linux
 keywords: 
 description: 
@@ -68,3 +68,6 @@ touch a.txt
 
 
 
+
+
+from：[painterlin](painterlin.com)

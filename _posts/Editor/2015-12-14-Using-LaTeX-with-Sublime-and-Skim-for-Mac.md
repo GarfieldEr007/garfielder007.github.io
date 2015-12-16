@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在Mac上通过Sublime、Skim编辑LaTeX
-category: 技术
+category: Editor
 tags: LaTeX Mac
 keywords: 
 description: 
@@ -58,3 +58,5 @@ LaTeX是一款权威的科技论文排版软件，不仅可以写论文，也可
 
 
 
+
+from：[painterlin](painterlin.com)

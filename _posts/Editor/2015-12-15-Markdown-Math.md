@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown输入LaTeX数学公式
-category: 技术
+category: Editor
 tags: LaTeX
 keywords: 
 description: 
@@ -25,3 +25,5 @@ Markdown是读写性都非常好的轻量文本编辑语言，这个博客以及
 
 ###缺点：
 Markdown文件的易读性却因此下降了很多。
+
+from：[painterlin](painterlin.com)

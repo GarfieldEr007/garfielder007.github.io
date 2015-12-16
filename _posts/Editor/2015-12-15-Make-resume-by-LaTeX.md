@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在Mac上用LaTeX写漂亮的简历
-category: 技术
+category: Editor
 tags: LaTeX Mac
 keywords: 报告总结
 description: 
@@ -55,3 +55,5 @@ description:
 
 
 
+
+from：[painterlin](painterlin.com)

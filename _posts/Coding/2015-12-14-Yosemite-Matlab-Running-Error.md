@@ -24,3 +24,5 @@ OK，现在Matlab就能重新工作了。
 ###参考文章
 
 [1][ running svreg and bdp on yosemite (os x 10.10)](http://brainsuite.org/quickstart/installation/mac/yosemite/)
+
+from：[painterlin](painterlin.com)

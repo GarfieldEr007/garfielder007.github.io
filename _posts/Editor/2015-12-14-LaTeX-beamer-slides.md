@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LaTeX beamer制作幻灯片
-category: 技术
+category: Editor
 tags: LaTeX
 keywords: 
 description: 
@@ -113,3 +113,5 @@ beamer制作幻灯片的框架大致可分三级（其中for语句仅为便于�
 
 其实一句话就可以概括啦：不断的begin，不断的end。
 
+
+from：[painterlin](painterlin.com)
