@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 计算机编程的经典书籍(强烈推荐)
+title: 计算机编程的经典书籍
 date: 2015-12-12
-categories: blog
+categories: Coding
 tags: [计算机,编程,书籍]
 description: 编程的相关书籍。
 

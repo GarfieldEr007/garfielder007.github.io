@@ -2,7 +2,7 @@
 layout: post
 title: A Scala Tutorial for Java Programmers
 date: 2015-12-15
-categories: 技术
+categories: Scala
 tags: [Scala,Tutorial,Java]
 description: Scala
 ---

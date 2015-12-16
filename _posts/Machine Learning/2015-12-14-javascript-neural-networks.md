@@ -2,7 +2,7 @@
 layout: post
 title: 斯坦福深度学习博士，手把手教你用Javascript写神经网络和SVM
 date: 2015-12-14
-categories: blog
+categories: Machine Learning
 tags: [Javascript,Neural Networks,Machine Learning]
 description: Machine Learning相关
 
