@@ -4,15 +4,15 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Cacool&Kinn
-  link: smile-sunshine.github.io
+  name: GarfieldEr007
+  link: garfielder007.github.io
   
   #<!--
   #email: lay.1010@hotmail.com
    #weibo: http://weibo.com/orangeissweet
   #-->
   
-  github: http://github.com/smile-sunshine
+  github: http://github.com/GarfieldEr007
   
   #<!--
   #music: http://site.douban.com/linanya
@@ -20,23 +20,22 @@ author:
   #-->
 
 # 站点信息
-title: Cacool&Kinn
+title: GarfieldEr007
 description: My personal blog
-url: smile-sunshine.github.io
+url: garfielder007.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/ali.jpg
-favicon: /public/img/ali.jpg
-
+gavatar: /public/img/garfielder007_avatar.png
+favicon: /public/img/garfielder007_avatar.png
 # google analytics 设置
 ga:
   id: UA-54262064-1 
-  url: smile-sunshine.github.io
+  url: garfielder007.github.io
 
 # disqus 设置
 disqus:
-  shortname: Cacool&Kinn
+  shortname: GarfieldEr007
 
 # 主题设置，自动激活某个标签
 active: 读书
