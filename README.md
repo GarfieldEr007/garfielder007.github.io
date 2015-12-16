@@ -4,6 +4,7 @@ button显示修改在-include/footer.html和base.js里面
 
 ###About
 This blog fork from [painterlin.com](painterlin.com), thanks.
+
 Starting from 12/11 2015.
 
 ###Blog
