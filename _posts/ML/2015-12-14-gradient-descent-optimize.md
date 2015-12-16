@@ -2,7 +2,7 @@
 layout: post
 title: 寻找最优参数解：最速下降法，牛顿下降法，阻尼牛顿法，拟牛顿法
 date: 2015-12-14
-categories: Machine Learning
+categories: ML
 tags: [最优参数,下降法,牛顿法]
 description: Machine Learning相关。
 
