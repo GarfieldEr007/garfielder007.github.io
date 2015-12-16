@@ -85,4 +85,5 @@ Notice that for this condition to be satisfied, the *descriptor* center Tx
 
 and we impose that the bin size mσ
  is integer as well.
+
 from [VLFeat](http://www.vlfeat.org/api/dsift.html).
