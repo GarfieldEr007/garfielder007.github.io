@@ -1,20 +1,13 @@
 ---
 layout: post
 title: 从二次型最优化问题中理解矩阵特征值的意义
-category: 科研
+category: Research
 tags: Math Optimization 
 keywords: 特征值
 description: 
 ---
 
-###惯例开场故事
-在某次从实验室去往食堂的路上，曾发生这样一段对话：
 
-『大师兄，为什么你对算法的理解总是那么透彻呢？为什么我很难看出它背后的思想？』
-
-『因为你去理解一个算法的时候，不能只是看懂它的形，还要去思考它的神啊~』
-
-这就是我天分不够当不了科学家的佐证吧T。T
 
 ###从二次型最优化来理解
 最小化二次型目标函数<a href="http://www.codecogs.com/eqnedit.php?latex=f(x)=x^TAx" target="_blank"><img src="http://latex.codecogs.com/gif.latex?f(x)=x^TAx" title="f(x)=x^TAx" /></a>，其中A为已知的实对称二阶矩阵，<a href="http://www.codecogs.com/eqnedit.php?latex=A=[1,0.5;0.5,1]" target="_blank"><img src="http://latex.codecogs.com/gif.latex?A=[1,0.5;0.5,1]" title="A=[1,0.5;0.5,1]" /></a>，<a href="http://www.codecogs.com/eqnedit.php?latex=x=[x_1,x_2]^{\textrm{T}}&space;\in&space;\textcal{R}^2" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x=[x_1,x_2]^{\textrm{T}}&space;\in&space;\textcal{R}^2" title="x=[x_1,x_2]^{\textrm{T}} \in \textcal{R}^2" /></a>.这个问题的求解很简单，这里以此为例来说明该问题与矩阵特征值的关系。
@@ -42,3 +35,4 @@ description:
 
 
 
+from [painterlin](painterlin.com)

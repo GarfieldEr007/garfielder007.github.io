@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 各类范数
-category: 科研
+category: Research
 tags: Math
 keywords: 向量范数，矩阵范数
 description: 
@@ -28,3 +28,5 @@ description:
 ||L(x)||_1 = |x2-x1| + |x3-x2| + |x4-x3| + ……
 
 加TV范数的目的是为了使求得的去噪信号仍然具有分段连续的性质。因为差值的1范数说明差值稀疏，从而说明求得的信号分段连续。
+
+from [painterlin](painterlin.com)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 低秩矩阵补全
-category: 科研
+category: Research
 tags: Optimization
 keywords: 矩阵补全，去中心
 description: 
@@ -61,3 +61,5 @@ description:
 
 
 
+
+from [painterlin](painterlin.com)

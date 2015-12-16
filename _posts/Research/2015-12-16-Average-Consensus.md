@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 对于一致平均问题的理解
-category: 科研
+category: Research
 tags: Optimization
 keywords: 矩阵补全，一致平均
 description: 
@@ -53,3 +53,6 @@ description:
 - 不精确(Inexact)求解：理论分析上不好证明，除此之外具有exact不具有的所有优点，比如算法时间复杂度低，节省计算资源等等。
 
   [1]: http://painterlin.com/2014/07/25/matrix-completion.html
+
+  
+  from [painterlin](painterlin.com)

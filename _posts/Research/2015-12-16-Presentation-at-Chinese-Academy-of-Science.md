@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 我的报告 Decentralized Privacy-Preserving Low-Rank Matrix Completion
-category: 科研
+title: 报告 Decentralized Privacy-Preserving Low-Rank Matrix Completion
+category: Research
 tags: Math Optimization
 keywords: 报告总结
 description: 
@@ -12,7 +12,7 @@ description:
 
 
 
-###我的报告
+###报告
 
 ####Section 0: Introduce Myself
 Page 1
@@ -205,3 +205,5 @@ Page 29
 
 
 
+
+from [painterlin](painterlin.com)

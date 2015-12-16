@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 牛顿法与拟牛顿法（DFP BFGS LBFGS VLBFGS）
-category: 科研
+category: Research
 tags: Math Optimization 
 keywords: 拟牛顿法
 description: 
@@ -97,3 +97,5 @@ description:
 
 
 
+
+from [painterlin](painterlin.com)

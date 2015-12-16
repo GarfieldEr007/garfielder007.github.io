@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 动态一致平均问题算法-EXTRA和DAC
-category: 科研
+category: Research
 tags: Optimization
 keywords: 矩阵补全，一致平均，论文
 description: 
@@ -19,3 +19,5 @@ description:
 其中，DAC最大的缺点在于第一次迭代时对于r(-1)时刻的依赖，在实际仿真中，如果需要对动态输入求一致平均，往往并不能获取输入在-1时刻的值。导致在矩阵补全问题中，DAC做不精确的动态一致平均的子问题效果并不好。
 
 而EXTRA却有很好的效果。
+
+from [painterlin](painterlin.com)

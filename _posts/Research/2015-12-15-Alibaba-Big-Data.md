@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 阿里巴巴大数据竞赛回顾与总结
-category: 科研
+category: Research
 tags: MachineLearning
 keywords: 大数据，机器学习，推荐系统
 description: 
 ---
 
-8个月前，苏宇师兄问我对[阿里巴巴大数据竞赛](http://102.alibaba.com/competition/addDiscovery/index.htm)感兴趣吗。正好我选修了[陈恩红](http://staff.ustc.edu.cn/~cheneh/)老师的《机器学习与数据挖掘》，很好奇这门课在实际中的应用；身为淘宝用户，也好奇我是如何被推荐的。于是和师兄一起参加比赛，加上计算机学院的刘惠民同学，我们组成了名叫`Rosemary`三人团队。这次大赛总共有7276支队伍参赛，我们止步于第二赛季。第一赛季排名56；第二赛季排名68。
+[阿里巴巴大数据竞赛](http://102.alibaba.com/competition/addDiscovery/index.htm)。
 
 ###开放数据
 
@@ -97,3 +97,7 @@ F1-Score：<img src="http://latex.codecogs.com/gif.latex?F_1=\frac{2\times&space
 ###总结
 
 
+
+
+
+from [painterlin](painterlin.com)

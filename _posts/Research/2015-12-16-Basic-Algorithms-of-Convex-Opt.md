@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 凸优化的一些基础算法
-category: 科研
+category: Research
 tags: Optimization
 keywords: 凸优化，基本算法
 description: 
@@ -25,3 +25,6 @@ description:
 
 ###Quasi Newton
 见[牛顿法与拟牛顿法（DFP BFGS LBFGS VLBFGS）](http://painterlin.com/2015/03/23/Newton-QuasiNewton-Method.html)
+
+
+from [painterlin](painterlin.com)

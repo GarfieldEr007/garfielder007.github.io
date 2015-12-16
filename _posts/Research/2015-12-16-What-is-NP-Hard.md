@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 什么是 P, NP, NP-complete, NP-hard
-category: 科研
+category: Research
 tags: Math
 keywords: 概念，NPhard
 description: 
@@ -49,3 +49,5 @@ A problem is **NP-complete** if the problem is both
 
 
 
+
+from [painterlin](painterlin.com)
