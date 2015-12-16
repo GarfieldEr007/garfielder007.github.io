@@ -18,7 +18,9 @@ description: Machine Learning相关
 [Sampling](http://www.vlfeat.org/api/dsift.html#dsift-tech-sampling)
 
 >Author:
+>
 >Andrea Vedaldi
+>
 >Brian Fulkerson
 
 [dsift.h](http://www.vlfeat.org/api/dsift_8h.html) implements a dense version of [SIFT](http://www.vlfeat.org/api/sift_8h.html). This is an object that can quickly compute descriptors for densely sampled keypoints with identical size and orientation. It can be reused for multiple images of the same size.
@@ -29,7 +31,9 @@ See also
 This module implements a fast algorithm for the calculation of a large number of SIFT descriptors of densely sampled features of the same scale and orientation. See the [SIFT module](http://www.vlfeat.org/api/sift.html) for an overview of SIFT.
 The feature frames (keypoints) are indirectly specified by the sampling steps ([vl_dsift_set_steps](http://www.vlfeat.org/api/dsift_8h.html#a42ae6bf77a9b737fd1e45ad5c43263dd)) and the sampling bounds ([vl_dsift_set_bounds](http://www.vlfeat.org/api/dsift_8h.html#a7d34c8e257c873f2ed580b046296d1ac)). The descriptor geometry (number and size of the spatial bins and number of orientation bins) can be customized ([vl_dsift_set_geometry](http://www.vlfeat.org/api/dsift_8h.html#a930f20c25eab08d9490830b0a358ff2b), [VlDsiftDescriptorGeometry](http://www.vlfeat.org/api/structVlDsiftDescriptorGeometry.html)).
 
-![dsift-geom.png](http://www.vlfeat.org/api/dsift-geom.png)Dense SIFT descriptor geometry
+![dsift-geom.png](http://www.vlfeat.org/api/dsift-geom.png)
+
+Fig. Dense SIFT descriptor geometry
 
 By default, SIFT uses a Gaussian windowing function that discounts contributions of gradients further away from the descriptor centers. This function can be changed to a flat window by invoking [vl_dsift_set_flat_window](http://www.vlfeat.org/api/dsift_8h.html#a8dfe2d20dbe9885d0c139c5b81b5f4b0). In this case, gradients are accumulated using only bilinear interpolation, but instad of being reweighted by a Gassuain window, they are all weighted equally. However, after gradients have been accumulated into a spatial bin, the whole bin is reweighted by the average of the Gaussian window over the spatial support of that bin. This “approximation” substantially improves speed with little or no loss of performance in applications.
 Keypoints are sampled in such a way that the centers of the spatial bins are at integer coordinates within the image boundaries. For instance, the top-left bin of the top-left descriptor is centered on the pixel (0,0). The bin immediately to the right at (binSizeX
