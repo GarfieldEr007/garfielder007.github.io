@@ -1,0 +1,54 @@
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: redcarpet
+
+# 作者信息
+author: 
+  name: Cacool&Kinn
+  link: smile-sunshine.github.io
+  
+  #<!--
+  #email: lay.1010@hotmail.com
+   #weibo: http://weibo.com/orangeissweet
+  #-->
+  
+  github: http://github.com/smile-sunshine
+  
+  #<!--
+  #music: http://site.douban.com/linanya
+  #linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  #-->
+
+# 站点信息
+title: Cacool&Kinn
+description: My personal blog
+url: smile-sunshine.github.io
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: /public/img/ali.jpg
+favicon: /public/img/ali.jpg
+
+# google analytics 设置
+ga:
+  id: UA-54262064-1 
+  url: smile-sunshine.github.io
+
+# disqus 设置
+disqus:
+  shortname: Cacool&Kinn
+
+# 主题设置，自动激活某个标签
+active: 读书
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Optimization
+  - LaTeX
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
