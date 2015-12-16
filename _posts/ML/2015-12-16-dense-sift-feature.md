@@ -36,7 +36,11 @@ Thus the following code produces equivalent descriptors using either DSIFT or SI
 binSize = 8 ;magnif = 3 ;Is = vl_imsmooth(I, sqrt((binSize/magnif)^2 - .25)) ;[f, d] = vl_dsift(Is, 'size', binSize) ;f(3,:) = binSize/magnif ;f(4,:) = 0 ;[f_, d_] = vl_sift(I, 'frames', f) ;
 
 The difference, of course, is that DSIFT is much faster.
-![](http://upload-images.jianshu.io/upload_images/1174946-d37ff13771df6ecb.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) ![](http://upload-images.jianshu.io/upload_images/1174946-5f3776040db78a26.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)Left: accuracy of the slow and fast dense SIFT implementations in [vl_dsift](http://www.vlfeat.org/matlab/vl_dsift.html)
+
+![](http://upload-images.jianshu.io/upload_images/1174946-d37ff13771df6ecb.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+![](http://upload-images.jianshu.io/upload_images/1174946-5f3776040db78a26.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)Left: accuracy of the slow and fast dense SIFT implementations in [vl_dsift](http://www.vlfeat.org/matlab/vl_dsift.html)
+
  compared to the SIFT baseline from vl_sift
 . Right: speedup. The fast version is less similar to the original SIFT descriptors but from 30 to 70 times faster than SIFT. Notice that the equivalence of the descriptors does not necessarily indicate that one would work better than the other in applications.
 
