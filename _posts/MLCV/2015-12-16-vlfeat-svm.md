@@ -23,7 +23,9 @@ ispresented below. Let's first load and plot the training data:
 
 Now we have a plot of the tutorial training data:
 
-![](http://upload-images.jianshu.io/upload_images/1174946-ba973ff17479c930.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) Training Data.  
+![](http://upload-images.jianshu.io/upload_images/1174946-ba973ff17479c930.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+Training Data.  
 
 Now we will set the learning parameters:
 
@@ -41,7 +43,10 @@ Now we can plot the output model over the trainingdata.
 ```
 
 The result is plotted in the following figure.
-![](http://upload-images.jianshu.io/upload_images/1174946-e9e550c416818687.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) Learned model.  
+
+![](http://upload-images.jianshu.io/upload_images/1174946-e9e550c416818687.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+Learned model.  
 
 The outputinfo
 is a struct containing some statistic on the learned SVM:
@@ -79,4 +84,5 @@ figurehold onplot(energy(1,:),'--b') ;plot(energy(2,:),'-.g') ;plot(energy(3,:),
 [1] Y. Singer and N. Srebro. *Pegasos: Primal estimated sub-gradient solver for SVM*. In Proc. ICML, 2007.
 [2] S. Shalev-Schwartz and T. Zhang. *Stochastic Dual Coordinate Ascent Methods for Regularized Loss Minimization*. 2013.
 [3] A. Vedaldi and A. Zisserman. *Efficient additive kernels via explicit feature maps*. In PAMI, 2011.
+
 from [VLFeat](http://www.vlfeat.org/overview/svm.html#tut.svm).
