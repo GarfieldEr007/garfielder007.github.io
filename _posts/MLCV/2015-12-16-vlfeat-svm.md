@@ -78,7 +78,9 @@ The objective values for the past iterations are kept in the matrixenergy
 figurehold onplot(energy(1,:),'--b') ;plot(energy(2,:),'-.g') ;plot(energy(3,:),'r') ;legend('Primal objective','Dual objective','Duality gap')xlabel('Diagnostics iteration')ylabel('Energy')
 ```
 
-![](http://upload-images.jianshu.io/upload_images/1174946-4c7531e8b98673d7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) SVM objective values plot.  
+![](http://upload-images.jianshu.io/upload_images/1174946-4c7531e8b98673d7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+SVM objective values plot.  
 
 ###References
 [1] Y. Singer and N. Srebro. *Pegasos: Primal estimated sub-gradient solver for SVM*. In Proc. ICML, 2007.
